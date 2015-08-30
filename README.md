@@ -11,7 +11,7 @@ run it like
 ./geotagimg.py eiffel-tower.jpg eiffel-tower-geotagged.jpg
 ```
 
-to add the GPS coordinates found in EXIF like this
+to create an image with the GPS coordinates found in EXIF watermarked, like this
 
 ![eiffel-tower-geotagged](https://github.com/clausqr/py-gpswatermarker/raw/master/ghmig/eiffel-tower-geotagged.jpg)
 
